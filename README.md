@@ -15,7 +15,7 @@
  I am currently on my Micreoverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
   
  - 📧 nelsonaraujoparedes93@gmail.com
-  - 🔗 [Nelson Araujo - LinkedIn] (https://www.linkedin.com/in/nelson-araujo-000523171/)
+  - 🔗 [Nelson Araujo - LinkedIn](https://www.linkedin.com/in/nelson-araujo-000523171/)
 </section>
 <!------------------------------ Experience ------------------------------>
  <section>
