@@ -11,8 +11,8 @@
 </div>
 <!------------------------------ Now ------------------------------>
  <section>
-   <h2><i>What is happening on 2023?</i></h2>
- I am currently on my Micreoverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
+   <h2><i>What is happening in 2023?</i></h2>
+ I am completing my Microverse classwork and will be available soon to start new projects. If you are interested in my profile, please get in touch with me via email or LinkedIn.
   
  - 📧 nelsonaraujoparedes93@gmail.com
   - 🔗 [Nelson Araujo - LinkedIn](https://www.linkedin.com/in/nelson-araujo-paredes/)
@@ -22,7 +22,7 @@
   <h2><i>Experience</i></h2>
   <br>
   <p>
-  In my three years of experience in web development, I had built not only web applications, but also I had deployed applications in Google Play store and Appstore, but this experience also helped me to learn the standards of deployment in such servers of high-quality demand. In my experience, I used to work with agile methodologies as SCRUM being not only part of a team but also Scrum Master many times. I built and deploy E-Commerce, User session applications, management applications, Transaction applications, and Multi-language applications.
+  In my four years of experience in web development, I have built web applications and deployed applications in the Google Play store and Appstore. This experience has helped me learn the deployment standards in such servers of high-quality demand. In my experience, I used to work with agile methodologies as SCRUM was part of a team and Scrum Master many times. I built and deployed E-Commerce, User session applications, management applications, Transaction applications, and Multi-language applications.
   </p>
 </section>
 <!------------------------------ Knowledge ------------------------------>
