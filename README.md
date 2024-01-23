@@ -12,7 +12,7 @@
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening in 2024?</i></h2>
- I am completing my [Master´s degree](https://github.com/NelsonAraujo93/NelsonAraujo93.git) at Universidad de Valencia and will be available soon to start new projects. If you are interested in my profile, please get in touch with me via email or LinkedIn.
+ I am completing my [Master's degree](https://github.com/NelsonAraujo93/NelsonAraujo93.git) at Universidad de Valencia and will be available soon to start new projects. If you are interested in my profile, please get in touch with me via email or LinkedIn.
   
  - 📧 nelsonaraujoparedes93@gmail.com
   - 🔗 [Nelson Araujo - LinkedIn](https://www.linkedin.com/in/nelson-araujo-paredes/)
